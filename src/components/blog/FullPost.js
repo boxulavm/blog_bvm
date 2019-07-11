@@ -36,7 +36,7 @@ export default class FullPost extends Component {
                             <h2 className='card-header text-dark'>{full_post.title}</h2>
                             <div className="card-body">
                                 <p>{full_post.body}</p>
-                                <p className='mt-3'><i className="fas fa-user"></i> by User: {full_post.userId}</p>
+                                <p className='mt-3'><i className="fas fa-user"></i> by User: {full_post.id}</p>
                             </div>
                         </div>}
                 </Spring>
