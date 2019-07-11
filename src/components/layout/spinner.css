@@ -1,0 +1,16 @@
+.fa-react {
+    font-weight: 500;
+    font-size: 150px;
+    margin-top: 25vh;
+    color: #2780E3;
+    animation: App-logo-spin infinite 5s linear;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
